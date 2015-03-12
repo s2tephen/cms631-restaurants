@@ -1,0 +1,212 @@
+{
+  "type": "FeatureCollection", 
+  "bbox": [
+    -122.349927, 
+    42.351459, 
+    -71.056739, 
+    47.658621
+  ], 
+  "features": [
+    {
+      "type": "Feature", 
+      "id": "Oleana", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.096398, 
+          42.37971
+        ]
+      }, 
+      "properties": {
+        "user": "amyzhaoyu", 
+        "address": "134 Hampshire St, Cambridge, MA 02139"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Paseo", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.056739, 
+          42.351459
+        ]
+      }, 
+      "properties": {
+        "user": "ceriley", 
+        "address": "4225 Fremont Ave N, Seattle, WA 98103"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Pepper Sky's", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.077907, 
+          42.366564
+        ]
+      }, 
+      "properties": {
+        "user": "daniman", 
+        "address": "20 Pearl Street, Cambridge, MA 02139"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "The Friendly Toast", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.105611, 
+          42.366482
+        ]
+      }, 
+      "properties": {
+        "user": "ehzhang", 
+        "address": "1 Kendall Square, #b3101, Cambridge, MA 02139"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Buk Kyung", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.134395, 
+          42.354836
+        ]
+      }, 
+      "properties": {
+        "user": "hayleysong", 
+        "address": "9 Union Sq Ste A, Citizens Bank - Union Square, Somerville, MA 02143"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Life Alive", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.110264, 
+          42.369002
+        ]
+      }, 
+      "properties": {
+        "user": "Val Healy", 
+        "address": "765 Massachusetts Ave, Cambridge, MA 02139"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Udupi Bhavan", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.103023, 
+          42.36432
+        ]
+      }, 
+      "properties": {
+        "user": "hsubrama", 
+        "address": "1717 Middlesex St, Lowell, MA 01851"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Friendly Toast", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -122.349927, 
+          47.658621
+        ]
+      }, 
+      "properties": {
+        "user": "infrared", 
+        "address": "1 Kendall Square,#b3101, Cambridge, MA 02139"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "veggie galaxy", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.351428, 
+          42.635795
+        ]
+      }, 
+      "properties": {
+        "user": "nessig", 
+        "address": "450 Massachusetts Ave, Cambridge, MA 02139"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Tu y Yo", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.110264, 
+          42.369002
+        ]
+      }, 
+      "properties": {
+        "user": "rahulb", 
+        "address": "858 Broadway, Somerville, MA 02144"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "Shabu & Mein", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.100989, 
+          42.363719
+        ]
+      }, 
+      "properties": {
+        "user": "ssuen", 
+        "address": "148 First St, Cambridge, MA 02141"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "A@Time", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.117364, 
+          42.400777
+        ]
+      }, 
+      "properties": {
+        "user": "tami", 
+        "address": "433 Cambridge St, Allston, MA 02134"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "id": "O Ya", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.096859, 
+          42.37057
+        ]
+      }, 
+      "properties": {
+        "user": "zhangjia", 
+        "address": "9 East St, Boston, MA 02111"
+      }
+    }
+  ], 
+  "crs": {
+    "type": "name", 
+    "properties": {
+      "name": "EPSG:4269"
+    }
+  }
+}
