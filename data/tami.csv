@@ -1,2 +1,2 @@
-"user","restaurant","address"
-"tami","A@Time","433 Cambridge St, Allston, MA 02134"
+user,restaurant,address,lat,lng
+tami,A@Time,"433 Cambridge St, Allston, MA 02134",42.354856,-71.134373

@@ -1,14 +1,14 @@
-user,restaurant,address
-amyzhaoyu,Oleana,"134 Hampshire St, Cambridge, MA 02139"
-ceriley,Paseo,"4225 Fremont Ave N, Seattle, WA 98103"
-daniman,Pepper Sky's,"20 Pearl Street, Cambridge, MA 02139"
-ehzhang,The Friendly Toast,"1 Kendall Square, #b3101, Cambridge, MA 02139"
-hayleysong,Buk Kyung,"9 Union Sq Ste A, Citizens Bank - Union Square, Somerville, MA 02143"
-Val Healy,Life Alive,"765 Massachusetts Ave, Cambridge, MA 02139"
-hsubrama,Udupi Bhavan,"1717 Middlesex St, Lowell, MA 01851"
-infrared,Friendly Toast,"1 Kendall Square,#b3101, Cambridge, MA 02139"
-nessig,veggie galaxy,"450 Massachusetts Ave, Cambridge, MA 02139"
-rahulb,Tu y Yo,"858 Broadway, Somerville, MA 02144"
-ssuen,Shabu & Mein,"148 First St, Cambridge, MA 02141"
-tami,A@Time,"433 Cambridge St, Allston, MA 02134"
-zhangjia,O Ya,"9 East St, Boston, MA 02111"
+user,restaurant,address,lat,lng
+amyzhaoyu,Oleana,"134 Hampshire St, Cambridge, MA 02139",42.370558,-71.097174
+ceriley,Paseo,"4225 Fremont Ave N, Seattle, WA 98103",47.658494,-122.350312
+daniman,Pepper Sky's,"20 Pearl Street, Cambridge, MA 02139",42.364211,-71.102915
+ehzhang,The Friendly Toast,"1 Kendall Square, #b3101, Cambridge, MA 02139",42.367784,-71.090007
+hayleysong,Buk Kyung,"9 Union Sq Ste A, Citizens Bank - Union Square, Somerville, MA 02143",42.379654,-71.095602
+Val Healy,Life Alive,"765 Massachusetts Ave, Cambridge, MA 02139",42.366644,-71.105370
+hsubrama,Udupi Bhavan,"1717 Middlesex St, Lowell, MA 01851",42.635517,-71.353331
+infrared,Friendly Toast,"1 Kendall Square,#b3101, Cambridge, MA 02139",42.367784,-71.090007
+nessig,veggie galaxy,"450 Massachusetts Ave, Cambridge, MA 02139",42.363443,-71.101268
+rahulb,Tu y Yo,"858 Broadway, Somerville, MA 02144",42.400698,-71.117509
+ssuen,Shabu & Mein,"148 First St, Cambridge, MA 02141",42.366431,-71.077552
+tami,A@Time,"433 Cambridge St, Allston, MA 02134",42.354856,-71.134373
+zhangjia,O Ya,"9 East St, Boston, MA 02111",42.351352,-71.056923

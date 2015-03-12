@@ -1,2 +1,2 @@
-"user","restaurant","address"
-"ssuen","Shabu & Mein","148 First St, Cambridge, MA 02141"
+user,restaurant,address,lat,lng
+ssuen,Shabu & Mein,"148 First St, Cambridge, MA 02141",42.366431,-71.077552

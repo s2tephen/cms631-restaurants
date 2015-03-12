@@ -1,2 +1,2 @@
-"user","restaurant","address"
-"amyzhaoyu","Oleana","134 Hampshire St, Cambridge, MA 02139"
+user,restaurant,address,lat,lng
+amyzhaoyu,Oleana,"134 Hampshire St, Cambridge, MA 02139",42.370558,-71.097174

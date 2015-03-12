@@ -1,6 +1,10 @@
 mkdir -p data
 files=$(find CMS.631-s15-Favorite-Restaurants -name '*.csv' -exec echo -n '{} ' \;)
-for f in $files; do sed -e 's/\", /\",/g' -e 's/”/\"/g' -e '/^$/d' $f | csvformat -U 1 | sed 's/" /"/g' > data/${f:33}; done
+for f in $files
+do
+  sed -e 's/\", /\",/g' -e 's/”/\"/g' -e '/^$/d' $f | csvformat -U 1 | sed 's/" /"/g' > data/${f:33}
+  curl 'http://maps.googleapis.com/maps/api/geocode/json?address='+$(csvcut -c 3 data/${f:33} | tail -n +2 | sed -e 's/"//g' -e 's/ /+/g') | jq -c '.results | .[] | .geometry.location' | json2csv -k lat,lng -p | csvjoin data/${f:33} - > temp.csv
+  mv temp.csv data/${f:33}
+done
 csvstack $(find data -type f -exec echo -n '{} ' \;) > restaurants.csv
-csvcut -c 3 restaurants.csv | csvformat -M , | sed -e 's/address,//g' -e 's/.$//' -e 's/^/[/' -e 's/$/]/' | curl -X POST -d @- 'http://www.datasciencetoolkit.org/street2coordinates' | jq -c '.[] | {latitude, longitude}' | json2csv -k latitude,longitude -p > addresses.csv
-csvjoin restaurants.csv addresses.csv | csvjson --lat latitude --lon longitude --k restaurant --crs EPSG:4269 -i 2 > restaurants.geojson
+csvjson restaurants.csv --lat lat --lon lng --k restaurant --crs EPSG:4269 -i 2 > restaurants.geojson

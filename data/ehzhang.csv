@@ -1,2 +1,2 @@
-"user","restaurant","address"
-"ehzhang","The Friendly Toast","1 Kendall Square, #b3101, Cambridge, MA 02139"
+user,restaurant,address,lat,lng
+ehzhang,The Friendly Toast,"1 Kendall Square, #b3101, Cambridge, MA 02139",42.367784,-71.090007
