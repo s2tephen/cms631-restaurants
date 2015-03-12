@@ -2,7 +2,7 @@
   "type": "FeatureCollection", 
   "bbox": [
     -122.350312, 
-    42.351352, 
+    42.304413, 
     -71.056923, 
     47.658494
   ], 
@@ -156,6 +156,22 @@
       "geometry": {
         "type": "Point", 
         "coordinates": [
+          -71.102426, 
+          42.364951
+        ]
+      }, 
+      "properties": {
+        "user": "perovich", 
+        "restaurant": "Dosa Factory", 
+        "address": "571 Massachusetts Ave, Cambridge, MA", 
+        "marker-symbol": "restaurant"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
           -71.117509, 
           42.400698
         ]
@@ -196,6 +212,22 @@
         "user": "tami", 
         "restaurant": "A@Time", 
         "address": "433 Cambridge St, Allston, MA 02134", 
+        "marker-symbol": "restaurant"
+      }
+    }, 
+    {
+      "type": "Feature", 
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -71.058983, 
+          42.304413
+        ]
+      }, 
+      "properties": {
+        "user": "tuyenbui", 
+        "restaurant": "Pho Le", 
+        "address": "1356 Dorchester Ave, Boston, MA 02144", 
         "marker-symbol": "restaurant"
       }
     }, 
