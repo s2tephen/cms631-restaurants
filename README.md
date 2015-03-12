@@ -1,2 +1,2 @@
 # cms631-restaurants
-Combined CSV for CMS.631 favorite restaurants. Requires [csvkit](https://csvkit.readthedocs.org).
+CMS.631's favorite restaurants, as one csv + map. Requires [csvkit](https://csvkit.readthedocs.org).
