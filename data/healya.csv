@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-Val Healy,Life Alive,"765 Massachusetts Ave, Cambridge, MA 02139",42.366644,-71.105370
+user,restaurant,address,lat,lng,marker-symbol
+Val Healy,Life Alive,"765 Massachusetts Ave, Cambridge, MA 02139",42.366644,-71.105370,restaurant

@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-zhangjia,O Ya,"9 East St, Boston, MA 02111",42.351352,-71.056923
+user,restaurant,address,lat,lng,marker-symbol
+zhangjia,O Ya,"9 East St, Boston, MA 02111",42.351352,-71.056923,restaurant

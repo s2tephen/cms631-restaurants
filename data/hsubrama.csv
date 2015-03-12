@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-hsubrama,Udupi Bhavan,"1717 Middlesex St, Lowell, MA 01851",42.635517,-71.353331
+user,restaurant,address,lat,lng,marker-symbol
+hsubrama,Udupi Bhavan,"1717 Middlesex St, Lowell, MA 01851",42.635517,-71.353331,restaurant

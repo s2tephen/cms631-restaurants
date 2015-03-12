@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-rahulb,Tu y Yo,"858 Broadway, Somerville, MA 02144",42.400698,-71.117509
+user,restaurant,address,lat,lng,marker-symbol
+rahulb,Tu y Yo,"858 Broadway, Somerville, MA 02144",42.400698,-71.117509,restaurant

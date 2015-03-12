@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-ceriley,Paseo,"4225 Fremont Ave N, Seattle, WA 98103",47.658494,-122.350312
+user,restaurant,address,lat,lng,marker-symbol
+ceriley,Paseo,"4225 Fremont Ave N, Seattle, WA 98103",47.658494,-122.350312,restaurant

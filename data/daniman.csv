@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-daniman,Pepper Sky's,"20 Pearl Street, Cambridge, MA 02139",42.364211,-71.102915
+user,restaurant,address,lat,lng,marker-symbol
+daniman,Pepper Sky's,"20 Pearl Street, Cambridge, MA 02139",42.364211,-71.102915,restaurant

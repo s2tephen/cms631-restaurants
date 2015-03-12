@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-hayleysong,Buk Kyung,"9 Union Sq Ste A, Citizens Bank - Union Square, Somerville, MA 02143",42.379654,-71.095602
+user,restaurant,address,lat,lng,marker-symbol
+hayleysong,Buk Kyung,"9 Union Sq Ste A, Citizens Bank - Union Square, Somerville, MA 02143",42.379654,-71.095602,restaurant

@@ -1,2 +1,2 @@
-user,restaurant,address,lat,lng
-nessig,veggie galaxy,"450 Massachusetts Ave, Cambridge, MA 02139",42.363443,-71.101268
+user,restaurant,address,lat,lng,marker-symbol
+nessig,veggie galaxy,"450 Massachusetts Ave, Cambridge, MA 02139",42.363443,-71.101268,restaurant
